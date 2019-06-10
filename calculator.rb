@@ -7,4 +7,6 @@ expect(sum).to eq(first_number+second_number)
 
 expect(product).to eq(first_number*second_number)
 
-expect()
+expect(quotient).to eq(first_number/second_number)
+
+expect(differnce).to eq(first_number-second_number)
